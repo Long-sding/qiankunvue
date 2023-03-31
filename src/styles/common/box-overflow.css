@@ -1,0 +1,33 @@
+.app-scroll {
+  pointer-events: all;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  will-change: scroll-position;
+}
+
+.app-scroll-x {
+  pointer-events: all;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  will-change: scroll-position;
+}
+
+.app-scroll-y {
+  pointer-events: all;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  will-change: scroll-position;
+}
+
+.app-hidden-xy {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.app-hidden-x {
+  overflow-x: hidden;
+}
+
+.app-hidden-y {
+  overflow-y: hidden;
+}

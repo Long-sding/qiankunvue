@@ -1,0 +1,15 @@
+@import './box-flex.css';
+@import './box-padding.css';
+@import './box-margin.css';
+@import './box-overflow.css';
+@import './box-size.css';
+@import './box-style.css';
+@import './font-size.css';
+@import './text-style.css';
+@import './layout-position.css';
+@import './misc.css';
+
+.page {
+  width: 100%;
+  height: 100%;
+}

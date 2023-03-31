@@ -1,0 +1,83 @@
+.app-hv-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-hv-end {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.app-h-center {
+  display: flex;
+  justify-content: center;
+}
+
+.app-wrap-flex {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.app-h-start {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.app-hv-start {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.app-h-end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.app-h-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.app-an-bet {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-an-around {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.app-h-around {
+  display: flex;
+  justify-content: space-around;
+}
+
+.app-v-center {
+  display: flex;
+  align-items: center;
+}
+
+.app-v-start {
+  display: flex;
+  align-items: flex-start;
+}
+
+.app-v-end {
+  display: flex;
+  align-items: flex-end;
+}
+
+.app-flex-1 {
+  flex: 1;
+}
+
+.app-flex-column {
+  flex-direction: column;
+}

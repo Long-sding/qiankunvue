@@ -1,0 +1,229 @@
+.app-relative {
+  position: relative;
+}
+
+.app-absolute {
+  position: absolute;
+}
+
+.app-center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.app-xy-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.app-x-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.app-y-center {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.app-t-0 {
+  top: 0px;
+}
+
+.app-t-1 {
+  top: 4px;
+}
+
+.app-t-2 {
+  top: 8px;
+}
+
+.app-t-3 {
+  top: 12px;
+}
+
+.app-t-4 {
+  top: 16px;
+}
+
+.app-t-8 {
+  top: 32px;
+}
+
+.app-t-9 {
+  top: 36px;
+}
+
+.app-t-10 {
+  top: 40px;
+}
+
+.app-t-11 {
+  top: 44px;
+}
+
+.app-t-12 {
+  top: 48px;
+}
+
+.app-r-0 {
+  right: 0px;
+}
+
+.app-r-1 {
+  right: 4px;
+}
+
+.app-r-2 {
+  right: 8px;
+}
+
+.app-r-3 {
+  right: 12px;
+}
+
+.app-r-4 {
+  right: 16px;
+}
+
+.app-r-5 {
+  right: 20px;
+}
+
+.app-r-6 {
+  right: 24px;
+}
+
+.app-r-7 {
+  right: 28px;
+}
+
+.app-r-8 {
+  right: 32px;
+}
+
+.app-r-9 {
+  right: 36px;
+}
+
+.app-r-10 {
+  right: 40px;
+}
+
+.app-r-11 {
+  right: 44px;
+}
+
+.app-r-12 {
+  right: 48px;
+}
+
+.app-b-0 {
+  bottom: 0px;
+}
+
+.app-b-1 {
+  bottom: 4px;
+}
+
+.app-b-2 {
+  bottom: 8px;
+}
+
+.app-b-3 {
+  bottom: 12px;
+}
+
+.app-b-4 {
+  bottom: 16px;
+}
+
+.app-b-8 {
+  bottom: 32px;
+}
+
+.app-b-9 {
+  bottom: 36px;
+}
+
+.app-b-10 {
+  bottom: 40px;
+}
+
+.app-b-11 {
+  bottom: 44px;
+}
+
+.app-b-12 {
+  bottom: 48px;
+}
+
+.app-l-0 {
+  left: 0px;
+}
+
+.app-l-1 {
+  left: 4px;
+}
+
+.app-l-2 {
+  left: 8px;
+}
+
+.app-l-3 {
+  left: 12px;
+}
+
+.app-l-4 {
+  left: 16px;
+}
+
+.app-l-8 {
+  left: 32px;
+}
+
+.app-z-index-10 {
+  z-index: 10;
+}
+
+.app-z-index-20 {
+  z-index: 20;
+}
+
+.app-z-index-30 {
+  z-index: 30;
+}
+
+.app-z-index-40 {
+  z-index: 40;
+}
+
+.app-z-index-50 {
+  z-index: 50;
+}
+
+.app-z-index-60 {
+  z-index: 60;
+}
+
+.app-z-index-70 {
+  z-index: 70;
+}
+
+.app-z-index-80 {
+  z-index: 80;
+}
+
+.app-z-index-90 {
+  z-index: 90;
+}
+
+.app-z-index-100 {
+  z-index: 100;
+}

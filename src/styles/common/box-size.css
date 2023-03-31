@@ -1,0 +1,315 @@
+/* width */
+.app-w-16px {
+  width: 16px;
+}
+
+.app-w-24px {
+  width: 24px;
+}
+
+.app-w-32px {
+  width: 32px;
+}
+
+.app-w-36px {
+  width: 36px;
+}
+
+.app-w-48px {
+  width: 48px;
+}
+
+.app-w-64px {
+  width: 64px;
+}
+
+.app-w-72px {
+  width: 72px;
+}
+
+.app-w-100px {
+  width: 100px;
+}
+
+.app-w-128px {
+  width: 128px;
+}
+
+.app-w-150px {
+  width: 150px;
+}
+
+.app-w-200px {
+  width: 200px;
+}
+
+/* min width */
+.app-min-w-48px {
+  width: 48px;
+}
+
+.app-min-w-64px {
+  width: 64px;
+}
+
+.app-min-w-72px {
+  width: 72px;
+}
+
+.app-min-w-100px {
+  width: 100px;
+}
+
+.app-min-w-150px {
+  width: 150px;
+}
+
+.app-min-w-130px {
+  width: 130px;
+}
+
+.app-min-w-160px {
+  width: 160px;
+}
+
+.app-min-w-175px {
+  width: 175px;
+}
+
+.app-min-w-200px {
+  width: 200px;
+}
+
+.app-min-w-240px {
+  width: 240px;
+}
+
+.app-min-w-120px {
+  width: 120px;
+}
+
+/* height */
+.app-h-1px {
+  height: 1px;
+}
+
+.app-h-2px {
+  height: 2px;
+}
+
+.app-h-3px {
+  height: 3px;
+}
+
+.app-h-16px {
+  height: 16px;
+}
+
+.app-h-24px {
+  height: 24px;
+}
+
+.app-h-32px {
+  height: 32px;
+}
+
+.app-h-36px {
+  height: 36px;
+}
+
+.app-h-48px {
+  height: 48px;
+}
+
+.app-h-40px {
+  height: 40px;
+}
+
+.app-h-64px {
+  height: 64px;
+}
+
+.app-h-72px {
+  height: 72px;
+}
+
+.app-h-68px {
+  height: 68px;
+}
+
+.app-h-100px {
+  height: 100px;
+}
+
+.app-h-150px {
+  height: 150px;
+}
+
+.app-h-200px {
+  height: 200px;
+}
+
+.app-h-270px {
+  height: 270px;
+}
+
+.app-h-400px {
+  height: 400px;
+}
+
+/* width and height */
+.app-wh-10px {
+  width: 10px;
+  height: 10px;
+}
+
+.app-wh-12px {
+  width: 12px;
+  height: 12px;
+}
+
+.app-wh-16px {
+  width: 16px;
+  height: 16px;
+}
+
+.app-wh-22px {
+  width: 22px;
+  height: 22px;
+}
+
+.app-wh-24px {
+  width: 24px;
+  height: 24px;
+}
+
+.app-wh-28px {
+  width: 28px;
+  height: 28px;
+}
+
+.app-wh-32px {
+  width: 32px;
+  height: 32px;
+}
+
+.app-wh-36px {
+  width: 36px;
+  height: 36px;
+}
+
+.app-wh-40px {
+  width: 40px;
+  height: 40px;
+}
+
+.app-wh-44px {
+  width: 44px;
+  height: 44px;
+}
+
+.app-wh-48px {
+  width: 48px;
+  height: 48px;
+}
+
+.app-wh-56px {
+  width: 56px;
+  height: 56px;
+}
+
+.app-wh-64px {
+  width: 64px;
+  height: 64px;
+}
+
+.app-wh-68px {
+  width: 68px;
+  height: 68px;
+}
+
+.app-wh-72px {
+  width: 72px;
+  height: 72px;
+}
+
+.app-wh-80px {
+  width: 80px;
+  height: 80px;
+}
+
+.app-wh-100px {
+  width: 100px;
+  height: 100px;
+}
+
+.app-wh-500px {
+  width: 500px;
+  height: 500px;
+}
+
+/* width percentage */
+.app-width-5p {
+  width: 5%;
+}
+
+.app-width-10p {
+  width: 10%;
+}
+
+.app-width-15p {
+  width: 15%;
+}
+
+.app-width-20p {
+  width: 20%;
+}
+
+.app-width-25p {
+  width: 25%;
+}
+
+.app-width-30p {
+  width: 30%;
+}
+
+.app-width-35p {
+  width: 35%;
+}
+
+.app-width-40p {
+  width: 40%;
+}
+
+.app-width-45p {
+  width: 45%;
+}
+
+.app-width-50p {
+  width: 50%;
+}
+
+.app-width-60p {
+  width: 60%;
+}
+
+.app-width-70p {
+  width: 70%;
+}
+
+.app-width-80p {
+  width: 80%;
+}
+
+.app-height-90p {
+  height: 90%;
+}
+
+.app-width-100p {
+  width: 100%;
+}
+
+.app-fill {
+  width: 100%;
+  height: 100%;
+}

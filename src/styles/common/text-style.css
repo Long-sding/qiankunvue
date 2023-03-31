@@ -1,0 +1,90 @@
+.text-center {
+	text-align: center;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text--white {
+	color: #fff;
+}
+
+.font-weight-normal {
+	font-weight: normal;
+}
+
+.font-weight-500 {
+	font-weight: 500;
+}
+
+.font-weight-600 {
+	font-weight: 600;
+}
+
+.font-weight-700 {
+	font-weight: 700;
+}
+
+.font-weight-bold {
+	font-weight: bold;
+}
+
+.app-ellipsis {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	word-break: break-all;
+}
+
+.app-ellipsis-2-lines {
+	overflow: hidden;
+	display: -webkit-box;
+	text-overflow: ellipsis;
+	word-break: break-all;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+}
+
+.app-ellipsis-3-lines {
+	overflow: hidden;
+	display: -webkit-box;
+	text-overflow: ellipsis;
+	word-break: break-all;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+}
+
+.app-ellipsis-4-lines {
+	overflow: hidden;
+	display: -webkit-box;
+	text-overflow: ellipsis;
+	word-break: break-all;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+}
+
+.app-ellipsis-5-lines {
+	overflow: hidden;
+	display: -webkit-box;
+	text-overflow: ellipsis;
+	word-break: break-all;
+	-webkit-line-clamp: 5;
+	-webkit-box-orient: vertical;
+}
+
+/* replace paratactic spaces to one space and allow break */
+.app-text-fix {
+	white-space: pre-line;
+	word-break: break-all;
+}
+
+/* keep all spaces and allow break */
+.app-text-format {
+	white-space: pre-wrap;
+	word-break: break-all;
+}

@@ -1,0 +1,15 @@
+.app-inline-block {
+	display: inline-block;
+}
+
+.app-box-border {
+	box-sizing: border-box;
+}
+
+.app-box-content {
+	box-sizing: content-box;
+}
+
+.app-black {
+	background-color: black;
+}
